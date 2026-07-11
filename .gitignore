@@ -1,0 +1,31 @@
+## Временные файлы компиляции (результаты сборки)
+[Bb]in/
+[Oo]bj/
+
+## Персональные настройки пользователя Visual Studio
+*.csproj.user
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Скрытая папка настроек самой Visual Studio
+.vs/
+
+## Файлы кэша и отчетов о сборке .NET
+*.suo
+*.ntvs*
+*.njsproj
+*.sln.targets
+*.dbmdl
+*.jfm
+
+## Сторонние бинарные файлы мультимедиа (чтобы случайно не залить FFmpeg)
+ffmpeg.exe
+ffprobe.exe
+ffplay.exe
+*.dll
+
+## Логи и отчеты об ошибках
+*.log
+*.crash
